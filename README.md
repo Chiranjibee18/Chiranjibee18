@@ -417,32 +417,32 @@ Developer → Git → GitHub → Jenkins → Build → Test → Docker → AWS �
 <h2>📌 Featured Repository</h2>
 <div align="center">
 <a href="https://github.com/Chiranjibee18/devops-batch-02">
-<img src="./profile/pin-devops-batch-02.svg" alt="Featured repository: devops-batch-02" width="420"/>
+<img src="./profile/repositories.dark.svg" alt="Featured repository: devops-batch-02" width="420"/>
 </a>
 </div>
 
 <h2>📊 GitHub Statistics</h2>
 <div align="center">
 <a href="https://github.com/Chiranjibee18">
-<img height="180" src="./profile/stats.svg" alt="Chiranjibee18 GitHub Statistics"/>
+<img height="180" src="./profile/overview.dark.svg" alt="Chiranjibee18 GitHub Statistics"/>
 </a>
 <a href="https://github.com/Chiranjibee18">
-<img height="180" src="./profile/top-langs.svg" alt="Chiranjibee18 Top Languages"/>
+<img height="180" src="./profile/languages.dark.svg" alt="Chiranjibee18 Top Languages"/>
 </a>
 </div>
 <br>
 <div align="center">
-<img src="./profile/streak.svg" alt="Chiranjibee18 GitHub Streak" width="700"/>
+<img src="./profile/contributions.dark.svg" alt="Chiranjibee18 GitHub Streak" width="700"/>
 </div>
 
 <h2>📈 Contribution Activity</h2>
 <div align="center">
-<a href="https://github.com/Chiranjibee18"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Chiranjibee18&bg_color=0D1117&color=38BDF8&line=22C55E&point=F59E0B&area=true&area_color=0c4a6e&hide_border=true&custom_title=Chiranjibee%20Panigrahi%20-%20Development%20Activity" width="95%" alt="Chiranjibee18 Contribution Activity"/></a>
+<a href="https://github.com/Chiranjibee18"><img src="./profile/lifetime.dark.svg" width="95%" alt="Chiranjibee18 Contribution Activity"/></a>
 </div>
 
 <h2>🐍 Contribution Snake</h2>
 <div align="center">
-<img src="https://raw.githubusercontent.com/Chiranjibee18/Chiranjibee18/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="./profile/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </div>
 
 <h2>🗺️ DevOps Roadmap</h2>
