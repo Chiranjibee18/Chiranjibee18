@@ -612,9 +612,15 @@ Build → Automate → Deploy → Monitor
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Chiranjibee18/Chiranjibee18/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/Chiranjibee18/Chiranjibee18/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Chiranjibee18/Chiranjibee18/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/Chiranjibee18/Chiranjibee18/tree/master/0904-fruit-into-baskets) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Chiranjibee18/Chiranjibee18/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
