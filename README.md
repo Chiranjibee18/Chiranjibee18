@@ -613,14 +613,17 @@ Build → Automate → Deploy → Monitor
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chiranjibee18/Chiranjibee18/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Chiranjibee18/Chiranjibee18/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Chiranjibee18/Chiranjibee18/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chiranjibee18/Chiranjibee18/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Chiranjibee18/Chiranjibee18/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Chiranjibee18/Chiranjibee18/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chiranjibee18/Chiranjibee18/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Chiranjibee18/Chiranjibee18/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
