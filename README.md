@@ -608,6 +608,7 @@ Build → Automate → Deploy → Monitor
 ## Array
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Chiranjibee18/Chiranjibee18/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/Chiranjibee18/Chiranjibee18/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
@@ -641,9 +642,23 @@ Build → Automate → Deploy → Monitor
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Chiranjibee18/Chiranjibee18/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Chiranjibee18/Chiranjibee18/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Chiranjibee18/Chiranjibee18/tree/master/0287-find-the-duplicate-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Chiranjibee18/Chiranjibee18/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Chiranjibee18/Chiranjibee18/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Chiranjibee18/Chiranjibee18/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Chiranjibee18/Chiranjibee18/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Chiranjibee18/Chiranjibee18/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Chiranjibee18/Chiranjibee18/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
