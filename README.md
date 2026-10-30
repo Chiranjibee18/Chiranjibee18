@@ -597,27 +597,38 @@ Build → Automate → Deploy → Monitor
 </table>
 </div>
 
+
 <div align="center">
-<h2>🤝 Let's Connect</h2>
-<br>
-<a href="https://github.com/Chiranjibee18">
-<img src="https://img.shields.io/badge/GitHub-Chiranjibee18-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
-<a href="https://www.linkedin.com/in/chiranjibee-panigrahi/">
-<img src="https://img.shields.io/badge/LinkedIn-Chiranjibee%20Panigrahi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <h2>🤝 LET'S CONNECT</h2>
 
-<a href="mailto:chiranjibeepanigrahi@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-chiranjibeepanigrahi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<br><br>
-📧 <b>[chiranjibeepanigrahi@gmail.com](mailto:chiranjibeepanigrahi@gmail.com)</b>
-<br><br>
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=2200&pause=700&color=22C55E&center=true&vCenter=true&width=700&height=45&lines=BUILD.;AUTOMATE.;DEPLOY.;MONITOR.;IMPROVE.;REPEAT.%F0%9F%9A%80"/>
-<br><br>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:22C55E,30:0EA5E9,60:075985,100:020617&section=footer&animation=fadeIn"/>
+  <a href="https://github.com/Chiranjibee18">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chiranjibee-panigrahi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:chiranjibeepanigrahi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <br/><br/>
+
+  <a href="mailto:chiranjibeepanigrahi@gmail.com">
+    chiranjibeepanigrahi@gmail.com
+  </a>
+
+  <br/><br/>
+
+  <h3>BUILD • AUTOMATE • DEPLOY • MONITOR • IMPROVE</h3>
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:22C55E,50:0EA5E9,100:020617&section=footer"
+    width="100%"
+  />
+
 </div>
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
