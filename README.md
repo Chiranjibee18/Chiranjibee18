@@ -442,7 +442,23 @@ Developer → Git → GitHub → Jenkins → Build → Test → Docker → AWS �
 
 <h2>🐍 Contribution Snake</h2>
 <div align="center">
-<img src="./profile/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+<h2>🐍 Contribution Snake</h2>
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Chiranjibee18/Chiranjibee18/output/github-contribution-grid-snake-dark.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Chiranjibee18/Chiranjibee18/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
+</div>
+
 </div>
 
 <h2>🗺️ DevOps Roadmap</h2>
